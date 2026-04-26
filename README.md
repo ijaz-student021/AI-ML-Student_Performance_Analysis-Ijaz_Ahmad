@@ -31,5 +31,4 @@ StudentsPerformance.csv
 - reports/ → PDF report
 - src/ → Python scripts
 
-**GitHub Repository Link**
-(Replace with your link after uploading)
+
